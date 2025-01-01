@@ -2,16 +2,15 @@
 
 Welcome to **Studio Moonforge**! 👋
 
-We’re a team of passionate developers and creatives focused on bringing innovative and exciting ideas to life, from **game development** to **web solutions**. Our mission is to create projects that are not only fun and functional but also have a lasting impact.
+We are a small indie development studio striving to the best of our abilities to create great games.
 
 ## 🌟 About Us
 
-RedFox Studios was founded with a love for technology and creativity. We aim to deliver quality and make a mark in the **indie game development** and **web development** spaces. We believe in open-source values and often share our work here for the community.
+Studio Moonfroge was founded by Maxulienka and Epeexx in 2024 with the intention of expanding the team and creating even better games as time goes on.
 
 ## 🚀 What We Do
 
 - **Game Development**: From concept to completion, we develop unique, immersive games with engaging mechanics and captivating stories.
-- **Web Development**: We build intuitive and high-quality web applications that enhance user experience and drive innovation.
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -34,6 +33,4 @@ RedFox Studios was founded with a love for technology and creativity. We aim to 
 
 - **Website**: [redfox-studios.org](http://studiomoonforge.com)
 - **GitHub**: [Studio Moonforge]((https://github.com/Studio-Moonforge))
-- **Mail**: [support@redfox-studios.org](mailto:)
-
-Thanks for visiting, and make sure to check out our repositories! 😀
+- **Mail**: [studiomoonforge](mailto:)
