@@ -1,16 +1,12 @@
 # Studio Moonforge
 
-Welcome to **Studio Moonforge**! 👋
+Welcome to 🌙 **Studio Moonforge**! 🌙
 
 We are a small indie development studio striving to the best of our abilities to create great games.
 
-## 🌟 About Us
+## 🌙 About Us
 
 Studio Moonfroge was founded by Maxulienka and Epeexx in 2024 with the intention of expanding the team and creating even better games as time goes on.
-
-## 🚀 What We Do
-
-- **Game Development**: From concept to completion, we develop unique, immersive games with engaging mechanics and captivating stories.
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -29,7 +25,7 @@ Studio Moonfroge was founded by Maxulienka and Epeexx in 2024 with the intention
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-## 📫 Contact
+## 🌙 Contact
 
 - **Website**: [redfox-studios.org](http://studiomoonforge.com)
 - **GitHub**: [Studio Moonforge]((https://github.com/Studio-Moonforge))
