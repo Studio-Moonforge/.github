@@ -27,6 +27,6 @@ Studio Moonfroge was founded by Maxulienka and Epeexx in 2024 with the intention
 
 ## 🌙 Contact
 
-- **Website**: [redfox-studios.org](http://studiomoonforge.com)
+- **Website**: [studiomoonforge.com](http://studiomoonforge.com)
 - **GitHub**: [Studio Moonforge](https://github.com/Studio-Moonforge)
 - **Mail**: [studiomoonforge](mailto:)
