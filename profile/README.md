@@ -2,11 +2,11 @@
 
 Welcome to 🌙 **Studio Moonforge**! 🌙
 
-We are a small indie development studio striving to the best of our abilities to create great games.
+We are a small indie development studio striving to the best of our abilities to create impacftul games.
 
 ## 🌙 About Us
 
-Studio Moonfroge was founded by Maxulienka and Epeexx in 2024 with the intention of expanding the team and creating even better games as time goes on.
+Studio Moonfroge was founded by Maxulienka and epeexx in 2024 with the goal of expanding our skillsets and creating thought-provoking games as time goes on.
 
 ## 🌙 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
